@@ -1,17 +1,18 @@
 
-# 💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+# 💫 Hi 👋, I'm Rajan Kumar
+**A passionate Student || DevOps & MLOps Explorer || Future Cloud & AIOps Engineer**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **captainrootx54@gmail.com** for Collaboration/Projects or Learning Together. ⚡
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 **I’m currently working on:** Building projects in DevOps, MLOps, and AIOps to strengthen my skills  
+- 🌱 **I’m currently learning:** DevOps || MLOps || AIOps  
+- 👯 **I’m looking to collaborate on:** Beginner to intermediate projects in Cloud, CI/CD, ML pipelines, and automation  
+- 🤔 **I’m looking for help with:** Guidance on best practices in DevOps workflows, model deployment, and real-world project experience  
+- 💬 **Ask me about:** My learning journey in DevOps/MLOps, beginner-friendly tech discussions, and collaboration ideas  
+- 📫 **How to reach me:** **captainrootx54@gmail.com**  
+- 😄 **Pronouns:** CAPTAIN  
+- ⚡ **Fun fact:** I may be a student now, but I learn like a pro and build like a hacker 😎  
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajansxarma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajan-kumar42) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CaptainNoorX) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ZenOpsInternational) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:captainrootx54@gmail.com) 
