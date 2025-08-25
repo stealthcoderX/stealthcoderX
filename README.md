@@ -17,6 +17,10 @@ Email Me 👉 ✉️ **captainrootx54@gmail.com** for Collaboration/Projects or 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajansxarma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajan-kumar42) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CaptainNoorX) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ZenOpsInternational) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:captainrootx54@gmail.com) 
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=stealthcoderX&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -30,8 +34,6 @@ Email Me 👉 ✉️ **captainrootx54@gmail.com** for Collaboration/Projects or 
 ![](https://nirzak-streak-stats.vercel.app/?user=stealthcoderX&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stealthcoderX&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=stealthcoderX&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
