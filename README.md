@@ -1,147 +1,119 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Rajan Kumar</h1>
+<h3 align="center">DevOps & Cloud Engineer · MLOps Explorer · Future AIOps Engineer</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:FF6B35&height=200&section=header&text=Rajan%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%7C%20MLOps%20%7C%20AIOps%20Engineer&descAlignY=58&descSize=18" width="100%"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=600&lines=Building+in+DevOps+%7C+MLOps+%7C+AIOps;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;Automating+Everything+%F0%9F%9A%80;Learning+Like+a+Pro%2C+Building+Like+a+Hacker+%F0%9F%98%8E)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```yaml
-name: Rajan Kumar
-location: Coimbatore, India
-pronouns: CAPTAIN
-current_focus: MLOps / AIOps Project
-role: DevOps & Cloud Engineer | Student | Explorer
-
-currently_working_on:
-  - Building an MLOps/AIOps project end-to-end
-  - Strengthening real-world DevOps workflows
-
-currently_learning:
-  - DevOps | MLOps | AIOps
-  - Advanced Kubernetes & Terraform
-
-looking_to_collaborate_on:
-  - Beginner to intermediate Cloud/CI-CD/ML pipeline projects
-  - Automation scripts and DevOps tooling
-
-ask_me_about:
-  - DevOps/MLOps learning journey
-  - Beginner-friendly tech discussions
-  - Collaboration & project ideas
-
-fun_fact: "I may be a student now, but I learn like a pro and build like a hacker 😎"
-```
+<p align="center">
+  <a href="https://linkedin.com/in/rajan-kumar42"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://youtube.com/@ZenOpsInternational"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+  <a href="https://x.com/CaptainNoorX"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
+  <a href="https://instagram.com/rajansxarma"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="mailto:captainrootx54@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+### 👨‍💻 About Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajan-kumar42)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@ZenOpsInternational)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/CaptainNoorX)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rajansxarma)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:captainrootx54@gmail.com)
-
-</div>
+- 🔭 Currently building an **MLOps / AIOps project** end-to-end
+- 🌱 Actively learning **DevOps · MLOps · AIOps** and sharpening cloud skills daily
+- 🤝 Open to collaborate on beginner-to-intermediate **Cloud, CI/CD, ML pipeline, and automation** projects
+- 💬 Ask me about DevOps workflows, model deployment, and getting started in cloud engineering
+- 📫 Reach me at **captainrootx54@gmail.com**
+- 📍 Based in **Coimbatore, India**
+- ⚡ Fun fact: I may be a student now, but I learn like a pro and build like a hacker 😎
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+**Cloud**
 
-### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 
-### ⚙️ CI/CD
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+**Containers & Orchestration**
 
-### 🏗️ Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 
-### 📊 Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+**CI/CD**
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
 
-### 💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+**Infrastructure as Code & Config Management**
 
-### 🤖 MLOps / Data
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white)
 
-### 🔧 DevOps Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+**Monitoring & Observability**
 
----
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
 
-## 📈 GitHub Stats
+**Databases**
 
-<div align="center">
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=stealthcoderX&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stealthcoderX&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=ffffff" height="180"/>
+**Languages & Scripting**
 
-</div>
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white)
 
-<div align="center">
+**MLOps & Data**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=stealthcoderX&theme=radical&hide_border=true&background=0d1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=ffffff&dates=ffffff)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
 
-</div>
+**Dev Tools**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat-square&logo=sonarqube&logoColor=4E9BCD)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 
 ---
 
-## 🏆 GitHub Trophies
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stealthcoderX&show_icons=true&theme=dark&hide_border=true" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stealthcoderX&layout=compact&theme=dark&hide_border=true" height="165" />
+</p>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=stealthcoderX&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=stealthcoderX&theme=dark&hide_border=true" />
+</p>
 
 ---
 
-## 🤝 Let's Collaborate!
+### 🏆 GitHub Trophies
 
-> I'm actively looking for beginner-to-intermediate projects in **Cloud, CI/CD, ML pipelines, and automation**.  
-> Drop me an email at **captainrootx54@gmail.com** — let's build something cool together! ⚡
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=stealthcoderX&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
-<div align="center">
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:0d1117&height=120&section=footer" width="100%"/>
+### ✍️ Dev Quote of the Day
 
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=stealthcoderX&icon=0&color=0" />
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
